@@ -1,0 +1,19 @@
+{
+  "name": "geocn",
+  "version": "0.0.0",
+  "description": "中国最完整最精确的行政区划数据与应用平台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xcatliu/geocn.git"
+  },
+  "author": "xcatliu <xcatliu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xcatliu/geocn/issues"
+  },
+  "homepage": "https://github.com/xcatliu/geocn"
+}
